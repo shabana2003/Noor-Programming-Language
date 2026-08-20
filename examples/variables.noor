@@ -1,0 +1,6 @@
+name := "Noor"
+age := 22
+age<- 24
+show name
+show age
+
